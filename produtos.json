@@ -1,0 +1,20 @@
+[
+  {
+    "nome": "Ferrão Padrão (Nail)",
+    "preco": 150.00,
+    "imagem":"img/ferrao.png",
+    "descricao": "A arma tradicional de um Cavaleiro de Hallownest. Simples, mas mortal."
+  },
+  {
+    "nome": "Lanterna de Lumamosca",
+    "preco": 1800.00,
+    "imagem": "img/lumamosca.jpg",
+    "descricao": "Ilumina as cavernas mais escuras. Essencial para explorar o Ninho Profundo."
+  },
+  {
+    "nome": "Bússola Caprichosa",
+    "preco": 220.00,
+    "imagem": "img/bussola.jpg",
+    "descricao": "Sussurra sua localização quando você abre um mapa. Ótima para não se perder."
+  }
+]
